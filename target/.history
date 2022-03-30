@@ -1,0 +1,7 @@
+run sbt
+sbt run
+compile sbt
+compile sbt;
+sbt help
+sbt eclipse
+exit
